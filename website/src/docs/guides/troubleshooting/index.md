@@ -1,4 +1,4 @@
----
+a fonte "Cerise Scan" quase todos os dias ela fica falhando.---
 title: Troubleshooting
 titleTemplate: Guides
 description: Facing source or app issues? Here's how to troubleshoot.
